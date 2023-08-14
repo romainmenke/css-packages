@@ -1,0 +1,10 @@
+{
+  "name": "@rmenke/css-package-conditional-2",
+  "version": "1.0.0",
+  "description": "",
+  "exports": {
+    "style": "./some-styles.css"
+  },
+  "author": "Romain Menke",
+  "license": "MIT"
+}

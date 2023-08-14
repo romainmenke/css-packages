@@ -1,0 +1,8 @@
+{
+  "name": "@rmenke/css-package-style",
+  "version": "1.0.0",
+  "description": "",
+  "style": "some-styles.css",
+  "author": "Romain Menke",
+  "license": "MIT"
+}

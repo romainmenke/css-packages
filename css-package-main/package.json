@@ -1,0 +1,8 @@
+{
+  "name": "@rmenke/css-package-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "some-styles.css",
+  "author": "Romain Menke",
+  "license": "MIT"
+}
